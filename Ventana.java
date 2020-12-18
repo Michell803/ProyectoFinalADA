@@ -40,7 +40,7 @@ public class Ventana extends JFrame {
 		    new Graph.Edge("Aeropuerto Internacional Francisco Secada Vignetta (Iquitos)", "Aeropuerto Alfredo Mendivil Duarte (Ayacucho)", 825),
 		    new Graph.Edge("Aeropuerto Internacional Francisco Secada Vignetta (Iquitos)", "eropuerto Internacional Alfredo Rodríguez Ballón (Cerro Colorado Arequipa)", 210),
 		    new Graph.Edge("Aeropuerto Internacional Francisco Secada Vignetta (Iquitos)", "Aeropuerto de La Joya (La Joya - Arequipa)", 210),
-		    new Graph.Edge("Aeropuerto Internacional Francisco Secada Vignetta (Iquitos)", "Aeropuerto Internacional Carlos Ciriani Santa Rosa (Tacna)", 890),
+		    new Graph.Edge("Aeropuerto Internacional Francisco Secada Vignetta (Iquitos)", "Aeropuerto Internacional Carlos Ciriani Santa Rosa (Tacna)", 870),
 		    
 		    //Aeropuerto Guillermo del Castillo Paredes (Tarapoto)
 		    new Graph.Edge("Aeropuerto Guillermo del Castillo Paredes (Tarapoto)", "Aeropuerto Internacional Francisco Secada Vignetta (Iquitos)", 60),
@@ -50,14 +50,14 @@ public class Ventana extends JFrame {
 		    new Graph.Edge("Aeropuerto Guillermo del Castillo Paredes (Tarapoto)", "Aeropuerto Alfredo Mendivil Duarte (Ayacucho)", 785),
 		    new Graph.Edge("Aeropuerto Guillermo del Castillo Paredes (Tarapoto)", "Aeropuerto Internacional Alfredo Rodríguez Ballón (Cerro Colorado Arequipa)", 245),
 		    new Graph.Edge("Aeropuerto Guillermo del Castillo Paredes (Tarapoto)", "Aeropuerto de La Joya (La Joya - Arequipa)", 245),
-		    new Graph.Edge("Aeropuerto Guillermo del Castillo Paredes (Tarapoto)", "Aeropuerto Internacional Carlos Ciriani Santa Rosa (Tacna)", 850),
+		    new Graph.Edge("Aeropuerto Guillermo del Castillo Paredes (Tarapoto)", "Aeropuerto Internacional Carlos Ciriani Santa Rosa (Tacna)", 890),
 		    
 		    //Aeropuerto Internacional Armando Revoredo Iglesias (Cajamarca)
 		    new Graph.Edge("Aeropuerto Internacional Armando Revoredo Iglesias (Cajamarca)", "Aeropuerto Internacional Francisco Secada Vignetta (Iquitos)", 225),
 		    new Graph.Edge("Aeropuerto Internacional Armando Revoredo Iglesias (Cajamarca)", "Aeropuerto Guillermo del Castillo Paredes (Tarapoto)", 265),
 		    new Graph.Edge("Aeropuerto Internacional Armando Revoredo Iglesias (Cajamarca)", "Aeropuerto Internacional David Abensur Rengifo (Pucallpa)", 290),
 		    new Graph.Edge("Aeropuerto Internacional Armando Revoredo Iglesias (Cajamarca)", "Aeropuerto David Figueroa F. (Huanuco)", 910),
-		    new Graph.Edge("Aeropuerto Internacional Armando Revoredo Iglesias (Cajamarca)", "Aeropuerto Francisco Carlé (Jauja)" , 115),
+		    new Graph.Edge("Aeropuerto Internacional Armando Revoredo Iglesias (Cajamarca)", "Aeropuerto Francisco Carlé (Jauja)" , 1015),
 		    new Graph.Edge("Aeropuerto Internacional Armando Revoredo Iglesias (Cajamarca)", "Aeropuerto Internacional Jorge Chávez (Callao)", 65),
 		    new Graph.Edge("Aeropuerto Internacional Armando Revoredo Iglesias (Cajamarca)", "Aeropuerto Internacional Alejandro Velasco Astete (Cusco)", 180),
 		    new Graph.Edge("Aeropuerto Internacional Armando Revoredo Iglesias (Cajamarca)", "Aeropuerto Alfredo Mendivil Duarte (Ayacucho)", 1010),
@@ -71,7 +71,7 @@ public class Ventana extends JFrame {
 		    new Graph.Edge("Aeropuerto Carlos Martínez de Pinillos (Trujillo)", "Aeropuerto Guillermo del Castillo Paredes (Tarapoto)", 220),
 		    new Graph.Edge("Aeropuerto Carlos Martínez de Pinillos (Trujillo)", "Aeropuerto Internacional David Abensur Rengifo (Pucallpa)", 290),
 		    new Graph.Edge("Aeropuerto Carlos Martínez de Pinillos (Trujillo)", "Aeropuerto David Figueroa F. (Huanuco)", 460),
-		    new Graph.Edge("Aeropuerto Carlos Martínez de Pinillos (Trujillo)", "Aeropuerto Francisco Carlé (Jauja)", 765),
+		    new Graph.Edge("Aeropuerto Carlos Martínez de Pinillos (Trujillo)", "Aeropuerto Francisco Carlé (Jauja)", 825),
 		    new Graph.Edge("Aeropuerto Carlos Martínez de Pinillos (Trujillo)", "Aeropuerto Internacional Jorge Chávez (Callao)", 65),
 		    new Graph.Edge("Aeropuerto Carlos Martínez de Pinillos (Trujillo)", "Aeropuerto Internacional Alejandro Velasco Astete (Cusco)", 185),
 		    new Graph.Edge("Aeropuerto Carlos Martínez de Pinillos (Trujillo)", "Aeropuerto Alfredo Mendivil Duarte (Ayacucho)", 720),
@@ -143,8 +143,8 @@ public class Ventana extends JFrame {
 		    new Graph.Edge("Aeropuerto Internacional Alejandro Velasco Astete (Cusco)", "Aeropuerto Francisco Carlé (Jauja)", 875),
 		    new Graph.Edge("Aeropuerto Internacional Alejandro Velasco Astete (Cusco)", "Aeropuerto Internacional Jorge Chávez (Callao)", 70),
 		    new Graph.Edge("Aeropuerto Internacional Alejandro Velasco Astete (Cusco)", "Aeropuerto Alfredo Mendivil Duarte (Ayacucho)", 770),
-		    new Graph.Edge("Aeropuerto Internacional Alejandro Velasco Astete (Cusco)", "Aeropuerto Internacional Alfredo Rodríguez Ballón (Arequipa)", 1210),
-		    new Graph.Edge("Aeropuerto Internacional Alejandro Velasco Astete (Cusco)", "Aeropuerto de La Joya (La Joya - Arequipa)", 1210),
+		    new Graph.Edge("Aeropuerto Internacional Alejandro Velasco Astete (Cusco)", "Aeropuerto Internacional Alfredo Rodríguez Ballón (Arequipa)", 210),
+		    new Graph.Edge("Aeropuerto Internacional Alejandro Velasco Astete (Cusco)", "Aeropuerto de La Joya (La Joya - Arequipa)", 210),
 		    new Graph.Edge("Aeropuerto Internacional Alejandro Velasco Astete (Cusco)", "Aeropuerto Internacional Carlos Ciriani Santa Rosa (Tacna)", 835),
 		    
 		    //Aeropuerto Alfredo Mendivil Duarte (Ayacucho)
@@ -208,6 +208,8 @@ public class Ventana extends JFrame {
 	 * @throws InterruptedException 
 	 */
 	public Ventana() throws InterruptedException {
+		long inicio = System.currentTimeMillis();     
+        Thread.sleep(2000);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 501, 488);
 		contentPane = new JPanel();
@@ -271,6 +273,9 @@ public class Ventana extends JFrame {
 		lblTiempoODistancia.setBounds(136, 288, 281, 21);
 		contentPane.add(lblTiempoODistancia);
 		
+		long fin = System.currentTimeMillis();  
+        double tiempo = (double) ((fin - inicio)/1000);       
+        System.out.println("Tiempo de Ejecucion del MergeSort es:"+tiempo +" segundos");
 	}
 	
 	/**
