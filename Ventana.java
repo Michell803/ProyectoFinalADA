@@ -275,7 +275,7 @@ public class Ventana extends JFrame {
 		
 		long fin = System.currentTimeMillis();  
         double tiempo = (double) ((fin - inicio)/1000);       
-        System.out.println("Tiempo de Ejecucion del MergeSort es:"+tiempo +" segundos");
+        System.out.println("El Tiempo de Ejecucion es:"+tiempo +" segundos");
 	}
 	
 	/**
