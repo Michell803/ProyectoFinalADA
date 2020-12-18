@@ -1,0 +1,163 @@
+- Aeropuerto Internacional Francisco Secada Vignetta - Aeropuerto Guillermo del Castillo Paredes - 1:00=60
+- Aeropuerto Internacional Francisco Secada Vignetta - Aeropuerto Internacional Armando Revoredo Iglesias - 4:20=260
+- Aeropuerto Internacional Francisco Secada Vignetta - Aeropuerto Carlos Martínez de Pinillos - 3:50=230
+- Aeropuerto Internacional Francisco Secada Vignetta - Aeropuerto Internacional David Abensur Rengifo - 1:00=60
+- Aeropuerto Internacional Francisco Secada Vignetta - Aeropuerto David Figueroa F. - 5:00=300
+- Aeropuerto Internacional Francisco Secada Vignetta - Aeropuerto Francisco Carlé - 15:30=930
+- Aeropuerto Internacional Francisco Secada Vignetta - Aeropuerto Internacional Jorge Chávez - 1:25=85
+- Aeropuerto Internacional Francisco Secada Vignetta - Aeropuerto Internacional Alejandro Velasco Astete - 3:35=180=215
+- Aeropuerto Internacional Francisco Secada Vignetta - Aeropuerto Alfredo Mendivil Duarte - 13:45=780=825
+- Aeropuerto Internacional Francisco Secada Vignetta - Aeropuerto Internacional Alfredo Rodríguez Ballón - 3:30=210
+- Aeropuerto Internacional Francisco Secada Vignetta - Aeropuerto de La Joya - 3:30=210
+- Aeropuerto Internacional Francisco Secada Vignetta - Aeropuerto Internacional Carlos Ciriani Santa Rosa - 14:50=870
+
+
+- Aeropuerto Guillermo del Castillo Paredes - Aeropuerto Internacional Francisco Secada Vignetta - 1:00=60
+- Aeropuerto Guillermo del Castillo Paredes - Aeropuerto Francisco Carlé - 14:50=890
+- Aeropuerto Guillermo del Castillo Paredes - Aeropuerto Internacional Jorge Chávez - 1:10=70
+- Aeropuerto Guillermo del Castillo Paredes - Aeropuerto Internacional Alejandro Velasco Astete - 3:40=220
+- Aeropuerto Guillermo del Castillo Paredes - Aeropuerto Alfredo Mendivil Duarte - 13:05=785
+- Aeropuerto Guillermo del Castillo Paredes - Aeropuerto Internacional Alfredo Rodríguez Ballón - 4:05=245
+- Aeropuerto Guillermo del Castillo Paredes - Aeropuerto de La Joya - 4:05=245
+- Aeropuerto Guillermo del Castillo Paredes - Aeropuerto Internacional Carlos Ciriani Santa Rosa - 14:10=890
+
+
+- Aeropuerto Internacional Armando Revoredo Iglesias - Aeropuerto Internacional Francisco Secada Vignetta - 3:45=225
+- Aeropuerto Internacional Armando Revoredo Iglesias - Aeropuerto Guillermo del Castillo Paredes - 4:25=265
+- Aeropuerto Internacional Armando Revoredo Iglesias - Aeropuerto Internacional David Abensur Rengifo - 4:50=290
+- Aeropuerto Internacional Armando Revoredo Iglesias - Aeropuerto David Figueroa F. - 15:10=910
+- Aeropuerto Internacional Armando Revoredo Iglesias - Aeropuerto Francisco Carlé - 18:35=1015
+- Aeropuerto Internacional Armando Revoredo Iglesias - Aeropuerto Internacional Jorge Chávez - 1:05=65
+- Aeropuerto Internacional Armando Revoredo Iglesias - Aeropuerto Internacional Alejandro Velasco Astete - 3:00=180
+- Aeropuerto Internacional Armando Revoredo Iglesias - Aeropuerto Alfredo Mendivil Duarte - 16:50=1010
+- Aeropuerto Internacional Armando Revoredo Iglesias - Aeropuerto Internacional Alfredo Rodríguez Ballón - 3:10=190
+- Aeropuerto Internacional Armando Revoredo Iglesias - Aeropuerto de La Joya - 3:10=190
+- Aeropuerto Internacional Armando Revoredo Iglesias - Aeropuerto Internacional Carlos Ciriani Santa Rosa - 17:55=1075
+
+
+- Aeropuerto Carlos Martínez de Pinillos - Aeropuerto Internacional Francisco Secada Vignetta - 3:15=195
+- Aeropuerto Carlos Martínez de Pinillos - Aeropuerto Guillermo del Castillo Paredes - 3:40
+- Aeropuerto Carlos Martínez de Pinillos - Aeropuerto Internacional David Abensur Rengifo
+- Aeropuerto Carlos Martínez de Pinillos - Aeropuerto David Figueroa F. - 7:40=460
+- Aeropuerto Carlos Martínez de Pinillos - Aeropuerto Francisco Carlé - 13:45=765
+- Aeropuerto Carlos Martínez de Pinillos - Aeropuerto Internacional Jorge Chávez - 1:05=65
+- Aeropuerto Carlos Martínez de Pinillos - Aeropuerto Internacional Alejandro Velasco Astete - 3:05=185
+- Aeropuerto Carlos Martínez de Pinillos - Aeropuerto Alfredo Mendivil Duarte - 12:00=720
+- Aeropuerto Carlos Martínez de Pinillos - Aeropuerto Internacional Alfredo Rodríguez Ballón - 3:00=180
+- Aeropuerto Carlos Martínez de Pinillos - Aeropuerto de La Joya - 3:00=180
+- Aeropuerto Carlos Martínez de Pinillos - Aeropuerto Internacional Carlos Ciriani Santa Rosa - 13:05=785
+
+
+- Aeropuerto Internacional David Abensur Rengifo - Aeropuerto Internacional Francisco Secada Vignetta - 1:00=60
+- Aeropuerto Internacional David Abensur Rengifo - Aeropuerto Guillermo del Castillo Paredes - 3:15=195
+- Aeropuerto Internacional David Abensur Rengifo - Aeropuerto Internacional Armando Revoredo Iglesias - 4:35=275
+- Aeropuerto Internacional David Abensur Rengifo - Aeropuerto Carlos Martínez de Pinillos - 4:25=265
+- Aeropuerto Internacional David Abensur Rengifo - Aeropuerto David Figueroa F. - 3:55=235
+- Aeropuerto Internacional David Abensur Rengifo - Aeropuerto Francisco Carlé - 17:20=1040
+- Aeropuerto Internacional David Abensur Rengifo - Aeropuerto Internacional Jorge Chávez - 1:00=60
+- Aeropuerto Internacional David Abensur Rengifo - Aeropuerto Internacional Alejandro Velasco Astete - 3:05=185
+- Aeropuerto Internacional David Abensur Rengifo - Aeropuerto Alfredo Mendivil Duarte - 15:35=935
+- Aeropuerto Internacional David Abensur Rengifo - Aeropuerto Internacional Alfredo Rodríguez Ballón - 3:10=190
+- Aeropuerto Internacional David Abensur Rengifo - Aeropuerto de La Joya - 3:10=190
+- Aeropuerto Internacional David Abensur Rengifo - Aeropuerto Internacional Carlos Ciriani Santa Rosa - 16:40=1000
+
+
+- Aeropuerto David Figueroa F. - Aeropuerto Internacional Francisco Secada Vignetta - 5:35=335
+- Aeropuerto David Figueroa F. - Aeropuerto Guillermo del Castillo Paredes - 9:30=570
+- Aeropuerto David Figueroa F. - Aeropuerto Internacional Armando Revoredo Iglesias - 7:30=450
+- Aeropuerto David Figueroa F. - Aeropuerto Carlos Martínez de Pinillos - 1:00=60
+- Aeropuerto David Figueroa F. - Aeropuerto Internacional David Abensur Rengifo - 3:55=235
+- Aeropuerto David Figueroa F. - Aeropuerto Francisco Carlé - 0:45=45
+- Aeropuerto David Figueroa F. - Aeropuerto Internacional Jorge Chávez - 1:00=60
+- Aeropuerto David Figueroa F. - Aeropuerto Internacional Alejandro Velasco Astete - 1:05=65
+- Aeropuerto David Figueroa F. - Aeropuerto Alfredo Mendivil Duarte - 1:05=65
+- Aeropuerto David Figueroa F. - Aeropuerto Internacional Alfredo Rodríguez Ballón - 1:10=70
+- Aeropuerto David Figueroa F. - Aeropuerto de La Joya - 1:10=70
+- Aeropuerto David Figueroa F. - Aeropuerto Internacional Carlos Ciriani Santa Rosa - 1:40=100
+
+
+- Aeropuerto Francisco Carlé - Aeropuerto Internacional Francisco Secada Vignetta - 3:30=210
+- Aeropuerto Francisco Carlé - Aeropuerto Guillermo del Castillo Paredes - 5:05=305
+- Aeropuerto Francisco Carlé - Aeropuerto Internacional Armando Revoredo Iglesias - 3:25=205
+- Aeropuerto Francisco Carlé - Aeropuerto Carlos Martínez de Pinillos - 4:15=255
+- Aeropuerto Francisco Carlé - Aeropuerto Internacional David Abensur Rengifo - 4:35=275
+- Aeropuerto Francisco Carlé - Aeropuerto David Figueroa F. - 1:00=60
+- Aeropuerto Francisco Carlé - Aeropuerto Internacional Alejandro Velasco Astete - 2:55=175
+- Aeropuerto Francisco Carlé - Aeropuerto Alfredo Mendivil Duarte - 21:15=1275
+- Aeropuerto Francisco Carlé - Aeropuerto Internacional Alfredo Rodríguez Ballón - 3:45=225
+- Aeropuerto Francisco Carlé - Aeropuerto de La Joya - 3:45=225
+- Aeropuerto Francisco Carlé - Aeropuerto Internacional Carlos Ciriani Santa Rosa - 22:25=1345
+
+
+- Aeropuerto Internacional Jorge Chávez - Aeropuerto Internacional Francisco Secada Vignetta - 1:25=85
+- Aeropuerto Internacional Jorge Chávez - Aeropuerto Guillermo del Castillo Paredes - 1:10=70
+- Aeropuerto Internacional Jorge Chávez - Aeropuerto Internacional Armando Revoredo Iglesias - 1:10=70
+- Aeropuerto Internacional Jorge Chávez - Aeropuerto Carlos Martínez de Pinillos - 1:00=60
+- Aeropuerto Internacional Jorge Chávez - Aeropuerto Internacional David Abensur Rengifo - 1:05=65
+- Aeropuerto Internacional Jorge Chávez - Aeropuerto David Figueroa F. - 1:00=60
+- Aeropuerto Internacional Jorge Chávez - Aeropuerto Internacional Alejandro Velasco Astete - 1:05=65
+- Aeropuerto Internacional Jorge Chávez - Aeropuerto Alfredo Mendivil Duarte - 1:05=65
+- Aeropuerto Internacional Jorge Chávez - Aeropuerto Internacional Alfredo Rodríguez Ballón - 1:10=70
+- Aeropuerto Internacional Jorge Chávez - Aeropuerto de La Joya - 1:10=70
+- Aeropuerto Internacional Jorge Chávez - Aeropuerto Internacional Carlos Ciriani Santa Rosa - 1:40=100
+
+
+- Aeropuerto Internacional Alejandro Velasco Astete - Aeropuerto Internacional Francisco Secada Vignetta - 3:45=225
+- Aeropuerto Internacional Alejandro Velasco Astete - Aeropuerto Guillermo del Castillo Paredes - 4:00=240
+- Aeropuerto Internacional Alejandro Velasco Astete - Aeropuerto Internacional Armando Revoredo Iglesias - 14:30=870
+- Aeropuerto Internacional Alejandro Velasco Astete - Aeropuerto Carlos Martínez de Pinillos - 3:30=210
+- Aeropuerto Internacional Alejandro Velasco Astete - Aeropuerto Internacional David Abensur Rengifo - 4:05=245
+- Aeropuerto Internacional Alejandro Velasco Astete - Aeropuerto Francisco Carlé - 14:35=875
+- Aeropuerto Internacional Alejandro Velasco Astete - Aeropuerto Internacional Jorge Chávez - 1:10=70
+- Aeropuerto Internacional Alejandro Velasco Astete - Aeropuerto Alfredo Mendivil Duarte - 12:50=770
+- Aeropuerto Internacional Alejandro Velasco Astete - Aeropuerto Internacional Alfredo Rodríguez Ballón - 3:30=210
+- Aeropuerto Internacional Alejandro Velasco Astete - Aeropuerto de La Joya - 3:30=210
+- Aeropuerto Internacional Alejandro Velasco Astete - Aeropuerto Internacional Carlos Ciriani Santa Rosa - 13: 55=835
+
+
+- Aeropuerto Alfredo Mendivil Duarte - Aeropuerto Internacional Francisco Secada Vignetta - 3:40=220
+- Aeropuerto Alfredo Mendivil Duarte - Aeropuerto Guillermo del Castillo Paredes - 6:50=410
+- Aeropuerto Alfredo Mendivil Duarte - Aeropuerto Internacional Armando Revoredo Iglesias - 3:30=210
+- Aeropuerto Alfredo Mendivil Duarte - Aeropuerto Carlos Martínez de Pinillos - 4:10=250
+- Aeropuerto Alfredo Mendivil Duarte - Aeropuerto Internacional David Abensur Rengifo - 6:20=380
+- Aeropuerto Alfredo Mendivil Duarte - Aeropuerto David Figueroa F. - 1:00=60
+- Aeropuerto Alfredo Mendivil Duarte - Aeropuerto Internacional Jorge Chávez - 0:50=50
+- Aeropuerto Alfredo Mendivil Duarte - Aeropuerto Internacional Alejandro Velasco Astete - 3:10=190
+- Aeropuerto Alfredo Mendivil Duarte - Aeropuerto Internacional Alfredo Rodríguez Ballón - 3:45=225
+- Aeropuerto Alfredo Mendivil Duarte - Aeropuerto de La Joya - 3:45=225
+- Aeropuerto Alfredo Mendivil Duarte - Aeropuerto Internacional Carlos Ciriani Santa Rosa - 3:40=220
+
+
+- Aeropuerto Internacional Alfredo Rodríguez Ballón - Aeropuerto Internacional Francisco Secada Vignetta - 4:15=255
+- Aeropuerto Internacional Alfredo Rodríguez Ballón - Aeropuerto Guillermo del Castillo Paredes - 3:50=230
+- Aeropuerto Internacional Alfredo Rodríguez Ballón - Aeropuerto Internacional Armando Revoredo Iglesias - 3:50=230
+- Aeropuerto Internacional Alfredo Rodríguez Ballón - Aeropuerto Carlos Martínez de Pinillos - 3:00=180
+- Aeropuerto Internacional Alfredo Rodríguez Ballón - Aeropuerto Internacional David Abensur Rengifo - 3:20=200
+- Aeropuerto Internacional Alfredo Rodríguez Ballón - Aeropuerto Francisco Carlé - 13:35=815
+- Aeropuerto Internacional Alfredo Rodríguez Ballón - Aeropuerto Internacional Jorge Chávez - 1:10=70
+- Aeropuerto Internacional Alfredo Rodríguez Ballón - Aeropuerto Internacional Alejandro Velasco Astete - 3:20=200
+- Aeropuerto Internacional Alfredo Rodríguez Ballón - Aeropuerto Alfredo Mendivil Duarte - 11:50=710
+- Aeropuerto Internacional Alfredo Rodríguez Ballón - Aeropuerto Internacional Carlos Ciriani Santa Rosa - 12:55=775
+
+- Aeropuerto de La Joya - Aeropuerto Internacional Francisco Secada Vignetta - 4:15=255
+- Aeropuerto de La Joya - Aeropuerto Guillermo del Castillo Paredes - 3:50=230
+- Aeropuerto de La Joya - Aeropuerto Internacional Armando Revoredo Iglesias - 3:50=230
+- Aeropuerto de La Joya - Aeropuerto Carlos Martínez de Pinillos - 3:00=180
+- Aeropuerto de La Joya - Aeropuerto Internacional David Abensur Rengifo - 3:20=200
+- Aeropuerto de La Joya - Aeropuerto Francisco Carlé - 13:35=815
+- Aeropuerto de La Joya - Aeropuerto Internacional Jorge Chávez - 1:10=70
+- Aeropuerto de La Joya - Aeropuerto Internacional Alejandro Velasco Astete - 3:20=200
+- Aeropuerto de La Joya - Aeropuerto Alfredo Mendivil Duarte - 11:50=710
+- Aeropuerto de La Joya - Aeropuerto Internacional Carlos Ciriani Santa Rosa - 12:55=775
+
+
+- Aeropuerto Internacional Carlos Ciriani Santa Rosa - Aeropuerto Internacional Francisco Secada Vignetta - 3:35=215
+- Aeropuerto Internacional Carlos Ciriani Santa Rosa - Aeropuerto Guillermo del Castillo Paredes - 3:50=230
+- Aeropuerto Internacional Carlos Ciriani Santa Rosa - Aeropuerto Internacional Armando Revoredo Iglesias - 4:05=245
+- Aeropuerto Internacional Carlos Ciriani Santa Rosa - Aeropuerto Carlos Martínez de Pinillos - 3:15=195
+- Aeropuerto Internacional Carlos Ciriani Santa Rosa - Aeropuerto Internacional David Abensur Rengifo - 3:20=200
+- Aeropuerto Internacional Carlos Ciriani Santa Rosa - Aeropuerto Francisco Carlé - 20:10=1210
+- Aeropuerto Internacional Carlos Ciriani Santa Rosa - Aeropuerto Internacional Jorge Chávez - 1:15=75
+- Aeropuerto Internacional Carlos Ciriani Santa Rosa - Aeropuerto Internacional Alejandro Velasco Astete - 3:35=215
+- Aeropuerto Internacional Carlos Ciriani Santa Rosa - Aeropuerto Alfredo Mendivil Duarte - 18:20=1100
+- Aeropuerto Internacional Carlos Ciriani Santa Rosa - Aeropuerto Internacional Alfredo Rodríguez Ballón - 3:20=200
